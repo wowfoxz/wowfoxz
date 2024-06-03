@@ -12,11 +12,11 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/wowfoxz" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://stackoverflow.com/users/wowfoxz" target="blank"><img align="center" src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+</a>
 </p>
 
-- 📚 Estoy continuamente aprendiendo y mejorando mis habilidades en **Terraform y Ansible** para optimizar la automatización de infraestructuras y flujos de trabajo.
-- 💬 Pregúntame sobre **Docker, Kubernetes, CI/CD, DevOps, automatización de despliegues, gestión de clústeres de servidores, scripting en Bash, documentación técnica, QA y Scrum Master**.
+- 📚 Estoy continuamente aprendiendo y mejorando mis habilidades en **jenkins** para optimizar la automatización de infraestructuras y flujos de trabajo.
+- 💬 Pregúntame sobre **Docker, Kubernetes, DevOps, automatización de despliegues, gestión de clústeres de servidores, scripting en Bash, documentación técnica, QA y Scrum Master**.
 - 📫 Cómo contactarme: **wowfoxz@gmail.com**
 
 <h2 align="center">Sobre mí</h2>
